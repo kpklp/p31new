@@ -1,5 +1,15 @@
 #include <iostream>
    using namespace std;
+
+   class MyGit
+   {
+    public:
+       void message(){
+        cout << "working GIT" << endl;
+       }
+
+   };
+
    class MyClass
    {
     private:
